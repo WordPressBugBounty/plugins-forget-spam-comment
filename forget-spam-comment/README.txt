@@ -4,8 +4,8 @@ Donate link: https://ko-fi.com/gulshan
 Tags: anti spam, stop spam, security, gdpr, firewall
 Requires at least: 4.5
 Requires PHP: 5.6
-Tested up to: 6.6.1
-Stable tag: 1.1.8
+Tested up to: 6.8.1
+Stable tag: 1.1.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -68,6 +68,9 @@ Only Default Commenting System of WordPress. Any other commenting system like AM
 Kindly allow me a chance to look into your problem by opening a support topic. I will reply in 24 hours.
 
 == Changelog ==
+
+= 1.1.9 =
+* Tested with 6.8.1 Updated on 07-June-2025.
 
 = 1.1.8 =
 * Tested with 6.6.1 Updated on 09-Aug-2024.
